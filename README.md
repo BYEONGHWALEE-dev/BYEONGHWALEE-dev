@@ -7,7 +7,8 @@
 - 📫 How to reach me: **[qudghk4084@naver.com]**.
 
 ## 🎖️ Certification
-![AWS-SAA](https://github.com/BYEONGHWALEE-dev/assets/raw/main/SAA.png)
+<img src="https://github.com/BYEONGHWALEE-dev/assets/raw/main/SAA.png" width="200">
+
 ![Static Badge](https://img.shields.io/badge/IELTS-7.0-FF0000?style=for-the-badge&logoColor=white&size=large)
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
