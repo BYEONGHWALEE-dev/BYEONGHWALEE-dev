@@ -14,8 +14,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?BYEONGHWALEE-dev&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?BYEONGHWALEE-dev&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BYEONGHWALEE-dev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BYEONGHWALEE-dev&layout=compact&theme=dark)
 
 ---
 
