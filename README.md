@@ -7,9 +7,11 @@
 - 📫 How to reach me: **[qudghk4084@naver.com]**.
 
 ## 🎖️ Certification
-<img src="https://github.com/BYEONGHWALEE-dev/assets/raw/main/SAA.png" width="200">
+<p>
+  <img src="https://github.com/BYEONGHWALEE-dev/assets/raw/main/SAA.png" width="200" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/BYEONGHWALEE-dev/assets/raw/main/ielts.png" width="200" style="display: inline-block;">
+</p>
 
-![Static Badge](https://img.shields.io/badge/IELTS-7.0-FF0000?style=for-the-badge&logoColor=white&size=large)
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
