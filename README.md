@@ -1,10 +1,14 @@
 # 👋 Hello World! I'm ByeongHwa
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **{Computer Science]**.
+- 🌱 I’m currently learning **[Computer Science]**.
 - 💼 I'm currently studying in **[SoongSil University]**.
 - 📌 Interests: **[BackEndc, Cloud, Network]**.
 - 📫 How to reach me: **[qudghk4084@naver.com]**.
+
+## 🎖️ Certification
+![AWS Certified Solutions Architect – Associate](https://your-image-url.com/aws-saa-badge.png)
+![IELTS 7.0](https://your-image-url.com/ielts-7-badge.png)
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
