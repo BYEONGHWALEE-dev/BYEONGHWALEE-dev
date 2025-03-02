@@ -8,8 +8,7 @@
 
 ## 🎖️ Certification
 ![Static Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&labelColor=FF9900&message=SAA&color=0073e6&size=large)
-![Static Badge](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&labelColor=FF0000&message=7.0&color=ffffff&size=large)
-
+![Static Badge](https://img.shields.io/badge/IELTS-7.0-FF0000?style=for-the-badge&logoColor=white&size=large)
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
