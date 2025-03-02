@@ -7,8 +7,8 @@
 - 📫 How to reach me: **[qudghk4084@naver.com]**.
 
 ## 🎖️ Certification
-![AWS Certified Solutions Architect – Associate](https://your-image-url.com/aws-saa-badge.png)
-![IELTS 7.0](https://your-image-url.com/ielts-7-badge.png)
+![Static Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&labelColor=FF9900&message=SAA&color=0073e6&size=large)
+![Static Badge](https://img.shields.io/badge/IELTS-FF0000?style=for-the-badge&labelColor=FF0000&message=7.0&color=ffffff&size=large)
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
