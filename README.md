@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Computer Science]**.
 - 💼 I'm currently studying in **[SoongSil University]**.
-- 📌 Interests: **[BackEndc, Cloud, Network]**.
+- 📌 Interests: **[BackEnd, Cloud, Network, Someday AI]**.
 - 📫 How to reach me: **[qudghk4084@naver.com]**.
 
 ## 🎖️ Certification
