@@ -1,5 +1,7 @@
 # 👋 Hello World! I'm ByeongHwa
 
+![header](https://capsule-render.vercel.app/api?type=rounded)
+
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Computer Science]**.
 - 💼 I'm currently studying in **[SoongSil University]**.
