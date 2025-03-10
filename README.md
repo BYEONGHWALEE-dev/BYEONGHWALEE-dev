@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm ByeongHwa
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=blue&height=300&section=header&text=Nice%20To%20Meet%20You)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nice%20To%20Meet%20You)
 
 
 ## 🚀 About Me
