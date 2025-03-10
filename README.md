@@ -21,8 +21,9 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BYEONGHWALEE-dev&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BYEONGHWALEE-dev&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BYEONGHWALEE-dev&show_icons=true&theme=dark&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BYEONGHWALEE-dev&layout=compact&theme=dark&cache_seconds=3600)
+
 
 ---
 
