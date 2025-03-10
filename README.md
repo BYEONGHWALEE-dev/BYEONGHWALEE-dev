@@ -1,6 +1,7 @@
 # 👋 Hello World! I'm ByeongHwa
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Nice%20To%20Meet%20You)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=skyblue&height=300&section=header&text=Nice%20To%20Meet%20You)
+
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Computer Science]**.
