@@ -1,4 +1,3 @@
-## 👋
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30&height=300&section=header&text=Thank%20You%20For%20Visiting)
 
 
