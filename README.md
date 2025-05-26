@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30&height=300&section=header&text=Thank%20You%20For%20Visiting)
-
-
 ## 🚀 About Me
 - 🌱 I’m currently learning **Computer Science**.
 - 💼 I'm currently studying in **SoongSil University**.
