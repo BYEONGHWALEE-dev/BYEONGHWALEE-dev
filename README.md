@@ -47,7 +47,7 @@ Backend developer with interest in cloud infrastructure, security systems, and d
 **TEIREN SIEM Platform** - Security Information and Event Management system  
 - Log ingestion pipeline with Kafka, Elasticsearch, and Neo4j  
 - Sigma rule-based threat detection for Linux auditd and Windows logs  
-- CloudTrail log analysis and real-time security monitoring  
+- logs from diverse resources analysis and real-time security monitoring  
 - Django backend with Docker/Kubernetes deployment
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudghk4084)](https://solved.ac/qudghk4084/)
