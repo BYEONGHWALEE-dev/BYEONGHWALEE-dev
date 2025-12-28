@@ -50,15 +50,4 @@ Backend developer with interest in cloud infrastructure, security systems, and d
 - CloudTrail log analysis and real-time security monitoring  
 - Django backend with Docker/Kubernetes deployment
 
-**Ddungdaeng** - Spring Boot application  
-- RESTful API with Redis caching  
-- CI/CD pipeline using GitHub Actions  
-- Nginx reverse proxy with SSL/TLS configuration
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BYEONGHWALEE-dev&show_icons=true&theme=dark&count_private=true&cache_seconds=3600)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BYEONGHWALEE-dev&layout=compact&theme=dark&cache_seconds=3600)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudghk4084)](https://solved.ac/qudghk4084/)
