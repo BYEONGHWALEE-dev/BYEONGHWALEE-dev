@@ -42,12 +42,4 @@ Backend developer with interest in cloud infrastructure, security systems, and d
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-## Projects
-
-**TEIREN SIEM Platform** - Security Information and Event Management system  
-- Log ingestion pipeline with Kafka, Elasticsearch, and Neo4j  
-- Sigma rule-based threat detection for Linux auditd and Windows logs  
-- logs from diverse resources analysis and real-time security monitoring  
-- Django backend with Docker/Kubernetes deployment
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudghk4084)](https://solved.ac/qudghk4084/)
